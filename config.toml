@@ -1,6 +1,6 @@
 [build]
   command = "hugo --gc --minify -b $URL"
-  publish = "public"
+  publish = "docs"
 
 [build.environment]
   HUGO_VERSION = "0.97.3"
@@ -20,4 +20,5 @@
   [plugins.inputs]
     debug = true
 
-baseURL=https://ryannavillus.github.io
+baseURL="https://ryannavillus.github.io"
+publishDir="docs"
