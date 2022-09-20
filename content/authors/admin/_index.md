@@ -29,7 +29,11 @@ education:
       institution: University of Maryland
       year: Expected 2025
     - course: BSc in Computer Science
+      institution: Purdue University
+      year: 2020
     - course: BSc in Applied Statistics
+      institution: Purdue University
+      year: 2020
     - course: BSc in Mathematics
       institution: Purdue University
       year: 2020
