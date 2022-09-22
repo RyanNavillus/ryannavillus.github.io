@@ -1,12 +1,13 @@
 ---
 # Display name
 title: Ryan Sullivan
+subtitle: rsulli@umd.edu
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Computer Science PhD Student
+role: Computer Science PhD Student <br /> rsulli@umd.edu
 
 # Organizations/Affiliations to show in About widget
 organizations:
