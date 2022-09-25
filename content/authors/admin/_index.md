@@ -74,7 +74,7 @@ email: ''
 highlight_name: true
 ---
 
-I'm a PhD student at the University of Maryland studying reinforcement learning in a variety of contexts. I am one of the developers of PettingZoo for multiagent environments and have worked on a number of open source tools for RL. I'm very interested in automatically generating curriculums for RL agents to solve tasks and enable open-ended learning. Feel free to reach out if you'd like to dicsuss ideas or opportunities to collaborate!
+I'm a PhD student at the University of Maryland studying reinforcement learning advised by [John P. Dickerson](http://jpdickerson.com/index.html). I am one of the developers of PettingZoo for multiagent environments and contributed to multiple open source tools for RL. My research is focused on understanding existing deep reinforcement algorithms and developing new methods that solve complex, real-word problems. Right now I'm interested in automatically generating curriculums for RL agents to solve challenging tasks and enable open-ended learning. Feel free to reach out if you'd like to dicsuss ideas or opportunities to collaborate!
 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
