@@ -15,13 +15,14 @@ organizations:
     url: https://www.umd.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include reinforcement learning, curriculum learning, and multi-agent systems
+bio: My research interests include reinforcement learning, curriculum learning, and training agents in multi-agent or open-ended environments.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
   - Deep Reinforcement Learning
   - Automatic Curriculum Learning
+  - Open-Endedness
+  - RLHF/RLAIF
 
 # Education to show in About widget
 education:
@@ -74,7 +75,7 @@ email: ''
 highlight_name: true
 ---
 
-I'm a PhD student at the University of Maryland studying reinforcement learning advised by [John P. Dickerson](http://jpdickerson.com/index.html). I am one of the developers of PettingZoo for multiagent environments and contributed to multiple open source tools for RL. My research is focused on understanding existing deep reinforcement algorithms and developing new methods that solve complex, real-word problems. Right now I'm interested in automatically generating curriculums for RL agents to solve challenging tasks and enable open-ended learning. Feel free to reach out if you'd like to dicsuss ideas or opportunities to collaborate!
+I'm a 4th year PhD student at the University of Maryland studying reinforcement learning in a variety of contexts. My research centers around developing an empirical understanding of policy gradient methods and developing automatic curriculum learning methods. I was one of the developers of PettingZoo for multiagent environments and have worked on a number of open source tools for RL, including my curriculum learning library {{< staticref "https://github.com/RyanNavillus/Syllabus" "newtab" >}}Syllabus{{< /staticref >}}. I've interned at Amazon Science and Google Research researching multi-objective RL and RLHF. I'm very interested in open-ended learning, automatic curriculum learning, and new directions combining LLMs with reinforcement learning. Feel free to reach out if you'd like to discuss ideas or opportunities to collaborate! I'm also looking for internships for Spring and Summer 2024.
 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "static/uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "./uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
