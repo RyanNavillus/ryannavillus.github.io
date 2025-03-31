@@ -7,7 +7,7 @@ subtitle: rsulli@umd.edu
 superuser: true
 
 # Role/position/tagline
-role: Computer Science PhD Student <br /> rsulli@umd.edu
+role: Computer Science PhD Candidate <br /> rsulli@umd.edu
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -66,7 +66,7 @@ social:
 # and uncomment the lines below.
   - icon: cv
     icon_pack: ai
-    link: uploads/resume.pdf
+    link: uploads/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
@@ -75,7 +75,4 @@ email: ''
 highlight_name: true
 ---
 
-I'm a 4th year PhD student at the University of Maryland studying reinforcement learning in a variety of contexts. My research centers around developing an empirical understanding of policy gradient methods and developing automatic curriculum learning methods. I was one of the developers of PettingZoo for multiagent environments and have worked on a number of open source tools for RL, including my curriculum learning library {{< staticref "https://github.com/RyanNavillus/Syllabus" "newtab" >}}Syllabus{{< /staticref >}}. I've interned at Amazon Science and Google Research researching multi-objective RL and RLHF. I'm very interested in open-ended learning, automatic curriculum learning, and new directions combining LLMs with reinforcement learning. Feel free to reach out if you'd like to discuss ideas or opportunities to collaborate! I'm also looking for internships for Spring and Summer 2024.
-
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "./uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+I'm a 5th year PhD candidate at the University of Maryland studying reinforcement learning in open-ended environments. My research centers around developing an empirical understanding of policy gradient algorithms and automatic curriculum learning methods. I was one of the developers of PettingZoo for multiagent environments and have worked on a number of open source tools for RL, including my curriculum learning library {{< staticref "https://github.com/RyanNavillus/Syllabus" "newtab" >}}Syllabus{{< /staticref >}}. I've interned at Amazon Science, Google Research, and Sony AI working on RL and RLHF. I'm very interested in research directions that use LLMs to augment RL training in complex environments, or RL to improve the general capabilities of LLMs. Feel free to reach out if you'd like to discuss ideas or opportunities to collaborate! I'm looking for industry research scientist or postdoc positions starting in August 2025.
