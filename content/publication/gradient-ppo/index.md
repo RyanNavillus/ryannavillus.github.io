@@ -40,7 +40,7 @@ summary: We introduce a novel policy learning method that integrates analytical 
 tags: []
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 # links:
