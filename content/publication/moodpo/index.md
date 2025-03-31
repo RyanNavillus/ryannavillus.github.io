@@ -19,7 +19,7 @@ publishDate: '2025-02-25T00:00:00Z'
 
 publication_types: ['1']
 
-publication: In *Proceedings of the 39th AAAI Conference on Artificial Intelligence (AAAI 2025)*
+publication: In *Proceedings of the 39th AAAI Conference on Artificial Intelligence*
 publication_short: In *AAAI 2025*
 
 abstract: Multi-objective preference alignment of large language models (LLMs) is critical for developing AI systems that are more configurable, personalizable, helpful, and safe. However, optimizing model outputs to satisfy diverse objectives with variable weights at inference time for truly personalized models presents a significant challenge. Existing approaches are either computationally expensive to train or do not sufficiently steer model behaviors. This paper introduces the Multi-Objective Online DPO (MO-ODPO) algorithm, designed to robustly and efficiently align model behaviors with multiple, potentially conflicting human preferences. Our approach incorporates a prompt conditioning mechanism, allowing us to train a single preference-conditional policy that can adapt to new preference combinations at inference. Experiments on two popular benchmarks show that MO-ODPO Pareto-dominates existing baselines while providing excellent inference-time steerability between diverse objectives.

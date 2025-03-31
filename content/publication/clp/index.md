@@ -24,8 +24,8 @@ publishDate: '2024-06-22T00:00:00Z'
 
 publication_types: ['1']
 
-publication: In *Findings of the Association for Computational Linguistics: EMNLP 2024*
-publication_short: In *Findings of EMNLP 2024*
+publication: In *Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing*
+publication_short: In *EMNLP 2024*
 
 abstract: Reward-based finetuning is crucial for aligning language policies with intended behaviors (e.g., creativity and safety). A key challenge is to develop steerable language models that trade-off multiple (conflicting) objectives in a flexible and efficient manner. This paper presents Conditional Language Policy (CLP), a general framework for finetuning language models on multiple objectives. Building on techniques from multi-task training and parameter-efficient finetuning, CLP learns steerable models that effectively trade-off conflicting objectives at inference time. Notably, this does not require training or maintaining multiple models to achieve different trade-offs between the objectives. Through extensive experiments and ablations on two summarization datasets, we show that CLP learns steerable language models that outperform and Pareto-dominate existing approaches for multi-objective finetuning.
 
